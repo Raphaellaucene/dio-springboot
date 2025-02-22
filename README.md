@@ -1,5 +1,6 @@
 # dio-springboot
-Curso de Springboot Digital Innovation One
+Curso de Spring Boot da Digital Innovation One
+
 
 ## O que é Spring Boot?
 Enquanto o Spring Framework é baseado no padrão de injeção de dependências, o Spring Boot foca na configuração automática, produtividade e simplicidade. Antes do Spring Boot, era necessário lidar com dependências individuais, verbosidade, incompatibilidade de versões e configurações complexas e repetitivas.
