@@ -1,12 +1,13 @@
-package dio.springboot;
+package ware.demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringPrimeirosPassosApplication  {
+public class DemoApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringPrimeirosPassosApplication.class, args);
+		SpringApplication.run(DemoApplication.class, args);
 	}
+
 }
